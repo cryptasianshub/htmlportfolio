@@ -1,0 +1,43 @@
+header {
+    display: flex;
+
+    backdrop-filter: blur(10px);
+    justify-content: space-evenly;
+    background-color: beige;
+    /*position: fixed;*/
+    width: 100%;
+    align-content: center;
+}
+
+nav {
+    list-style: none;
+}
+
+nav a {
+    margin-left: 35px;
+    text-decoration: none;
+    color: black;
+}
+
+h2 {
+    text-align: justify;
+}
+
+.pic-vid {
+    display: flex;
+    justify-content: space-around;
+}
+
+h5 {
+    justify-content: flex-start;
+    text-align: justify;
+
+
+}
+
+body {
+    background-image: linear-gradient(to left, rgb(128, 128, 102), rgb(86, 61, 61), rgb(184, 164, 164));
+
+
+
+}
